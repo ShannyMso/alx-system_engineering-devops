@@ -1,0 +1,2 @@
+#!/bin/bash
+Is -Ia >> Is_cwd_content
